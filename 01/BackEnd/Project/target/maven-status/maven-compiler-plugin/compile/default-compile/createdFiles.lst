@@ -1,0 +1,6 @@
+com\MC\Project\Controller\AdminController.class
+com\MC\Project\Service\AdminService.class
+com\MC\Project\Repo\AdminRepository.class
+com\MC\Project\ProjectApplication.class
+com\MC\Project\Controller\AdminLoginRequest.class
+com\MC\Project\Entity\Admin.class
